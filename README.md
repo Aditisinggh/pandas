@@ -26,7 +26,7 @@ easy and intuitive. It aims to be the fundamental high-level building block for
 doing practical, **real world** data analysis in Python. Additionally, it has
 the broader goal of becoming **the most powerful and flexible open source data
 analysis / manipulation tool available in any language**. It is already well on
-its way towards this goal.
+its way towards this goal. **It is build on top of Numpy **
 
 ## Main Features
 Here are just a few of the things that pandas does well:
